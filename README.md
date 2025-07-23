@@ -26,10 +26,10 @@ To create a line break in an . md file,
 # ensure you have installed git
 ### Windows
 
-Clone the Repo
+Clone the Repo \
 ``` git clone https://github.com/belalmostafaaa/Terminal-Protofolio.git```\
 ``` 
-cd Terminal-Protofolio
+cd Terminal-Protofolio \
 ```
 ```start index.html ```
 
