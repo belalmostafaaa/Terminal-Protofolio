@@ -33,7 +33,9 @@ git clone https://github.com/belalmostafaaa/Terminal-Protofolio.git
 ``` 
 cd Terminal-Protofolio
 ```
-```start index.html```
+```
+start index.html
+```
 
 ### Linux
 ``` 
@@ -42,7 +44,9 @@ git clone https://github.com/belalmostafaaa/Terminal-Protofolio.git
 ```
 cd Terminal-Protofolio
 ```
-``` xdg-open index.html ```
+``` 
+xdg-open index.html
+```
 
 ### macOS
 ```
@@ -51,4 +55,6 @@ git clone https://github.com/belalmostafaaa/Terminal-Protofolio.git
 ```
 cd Terminal-Protofolio
 ```
-``` open index.html ```
+```
+open index.html
+```
