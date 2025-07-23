@@ -5,7 +5,7 @@
 Welcome to **GameFolio Terminal**, a minimalist, interactive, and cyberpunk-themed portfolio where users explore your projects, about info, and more via terminal commands — just like a hacker in a movie
 
 ---
-
+To create a line break in an . md file,
 
 
 ## Commands Supported
@@ -27,7 +27,7 @@ Welcome to **GameFolio Terminal**, a minimalist, interactive, and cyberpunk-them
 ### Windows
 
 Clone the Repo
-``` git clone https://github.com/belalmostafaaa/Terminal-Protofolio.git```
+``` git clone https://github.com/belalmostafaaa/Terminal-Protofolio.git```\
 ``` 
 cd Terminal-Protofolio
 ```
