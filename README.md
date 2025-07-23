@@ -27,9 +27,11 @@ Welcome to **GameFolio Terminal**, a minimalist, interactive, and cyberpunk-them
 ### Windows
 
 Clone the Repo
-``` git clone https://github.com/belalmostafaaa/Terminal-Protofolio.git ```
-``` cd Terminal-Protofolio ```
-``` start index.html ```
+``` git clone https://github.com/belalmostafaaa/Terminal-Protofolio.git```
+``` 
+cd Terminal-Protofolio
+```
+```start index.html ```
 
 ### Linux
 ``` git clone https://github.com/belalmostafaaa/Terminal-Protofolio.git ```
