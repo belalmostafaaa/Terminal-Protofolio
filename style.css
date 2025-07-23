@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, html {
+  height: 100%;
+  font-family: 'Source Code Pro', monospace;
+  color: #33ff33;
+  background: black;
+  overflow: hidden;
+}
+
+
+#matrix {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+.terminal {
+  position: relative;
+  z-index: 1;
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+  margin-top: 60px;
+  background-color: rgba(0, 0, 0, 0.85);
+  border: 2px solid #33ff33;
+  border-radius: 8px;
+}
+
+pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  margin-bottom: 10px;
+  min-height: 300px;
+}
+
+.input-line {
+  display: flex;
+  align-items: center;
+}
+
+.prompt {
+  margin-right: 8px;
+}
+
+#commandInput {
+  background: transparent;
+  border: none;
+  outline: none;
+  color: #33ff33;
+  font-family: inherit;
+  font-size: 16px;
+  width: 100%;
+}
