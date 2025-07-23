@@ -27,18 +27,28 @@ To create a line break in an . md file,
 ### Windows
 
 Clone the Repo \
-``` git clone https://github.com/belalmostafaaa/Terminal-Protofolio.git```\
 ``` 
-cd Terminal-Protofolio \
+git clone https://github.com/belalmostafaaa/Terminal-Protofolio.git
 ```
-```start index.html ```
+``` 
+cd Terminal-Protofolio
+```
+```start index.html```
 
 ### Linux
-``` git clone https://github.com/belalmostafaaa/Terminal-Protofolio.git ```
-``` cd Terminal-Protofolio ```
+``` 
+git clone https://github.com/belalmostafaaa/Terminal-Protofolio.git
+```
+```
+cd Terminal-Protofolio
+```
 ``` xdg-open index.html ```
 
 ### macOS
-``` git clone https://github.com/belalmostafaaa/Terminal-Protofolio.git ```
-``` cd Terminal-Protofolio ```
+```
+git clone https://github.com/belalmostafaaa/Terminal-Protofolio.git
+```
+```
+cd Terminal-Protofolio
+```
 ``` open index.html ```
